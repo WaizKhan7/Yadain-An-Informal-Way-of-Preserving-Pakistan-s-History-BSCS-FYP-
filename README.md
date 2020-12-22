@@ -7,5 +7,14 @@ Application uses OpenCV library and ORB (Oriented FAST and Rotated BRIEF) image 
 
 **Result of Image Augmentation:**
 
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190518162519.jpeg?raw=true)
+
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190624123027.jpeg?raw=true)
+
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190706154221.jpeg?raw=true)
+
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190706152731.jpeg?raw=true)
+
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190706150704.jpeg?raw=true)
 
 All the features of the application and results of the project are shown and discussed in details in the files named "Intro And App's Features.pdf" and "Results And Demo of the app.pdf".
