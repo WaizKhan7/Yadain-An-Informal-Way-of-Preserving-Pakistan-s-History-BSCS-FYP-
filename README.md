@@ -11,7 +11,7 @@ Application uses OpenCV library and ORB (Oriented FAST and Rotated BRIEF) image 
 
 ![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190706154221.jpeg?raw=true)
 
-![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190518172326.jpeg?raw=true)
+![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190518172326%20(1).jpg?raw=true)
 
 ![alt text](https://github.com/WaizKhan7/Yadain-An-Informal-Way-of-Preserving-Pakistan-s-History-BSCS-FYP-/blob/main/images/Yadain_20190706152731.jpeg?raw=true)
 
